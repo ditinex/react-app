@@ -29,6 +29,9 @@ Password : 1234
 ## Back-end Approach :
 
 >> router.js is used to route the api requests to different controllers.
+
 >> Controller folder contains the controllers for each api request.
+
 >> Model folder contains models and schema for both the database. Controller imports the models for further use.
+
 >> Config.js contains all the configurations
