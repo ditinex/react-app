@@ -1,14 +1,23 @@
 # React-Node Task
 
 The codes are uploaded in server to view output. 
+
 URL : [http://server.ditinex.online:3000](http://server.ditinex.online:3000)
 
+
+
 Test account with dummy suggestion products added in database :
+
 Email : asifakramsk@gmail.com
+
 Password : password
 
+
+
 Test account with no suggestion data :
+
 Email : test@test.com
+
 Password : 1234
 
 ## Front-end Approach :
