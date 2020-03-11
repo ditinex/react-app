@@ -10,7 +10,7 @@
     "react-dom": "^16.13.0",
     "react-scripts": "3.4.0"
   },
-  "homepage": "http://server.ditinex.com/metrictree/react-app",
+  "homepage": "http://server.ditinex.online/metrictree/react-app/public",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
